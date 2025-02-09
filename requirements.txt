@@ -8,3 +8,5 @@ pytz
 nominatim 
 psycopg2-binary
 dj_database_url
+whitenoise[brotli]
+gunicorn
