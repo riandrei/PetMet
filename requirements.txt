@@ -6,3 +6,5 @@ nltk
 geopy
 pytz
 nominatim 
+psycopg2-binary
+dj_database_url
